@@ -7,7 +7,7 @@ $(document).ready(function(){
         autoplay : true ,
     });
 
-    $('.portfolio-item').venobox();
+    $('.venobox').venobox();
 
     $('.counter').counterUp();
 

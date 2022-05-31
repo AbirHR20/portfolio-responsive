@@ -350,6 +350,8 @@ banner css ends
     opacity: 5%;
     font-size: 75px;
     white-space: nowrap;
+    -webkit-writing-mode: sideways-lr;
+    -ms-writing-mode: sideways-lr;
 }
 
 #about .about-person {
@@ -411,6 +413,8 @@ about css ends
     color: var(--cl2);
     opacity: 5%;
     font-size: 70px;
+    -webkit-writing-mode: sideways-lr;
+    -ms-writing-mode: sideways-lr;
 }
 
 #services .service-item{
@@ -564,6 +568,8 @@ portfolio css ends
     opacity: 5%;
     font-size: 55px;
     white-space: nowrap;
+    -webkit-writing-mode: sideways-lr;
+    -ms-writing-mode: sideways-lr;
 }
 
 #work header h3{
@@ -696,6 +702,8 @@ fun css ends
     opacity: 5%;
     font-size: 60px;
     white-space: nowrap;
+    -webkit-writing-mode: sideways-lr;
+    -ms-writing-mode: sideways-lr;
 }
 
 #testimonial header h3{
